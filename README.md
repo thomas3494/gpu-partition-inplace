@@ -20,5 +20,5 @@ implementation is preferred.
 
 A research artefact with code to check for correctness and some benchmarks is
 available at 
-[partition-artefact](https://github.com/thomas3494/partition-artefact). 
+[partition-artefact](https://gitlab.com/thomas637/partition-artefact). 
 The paper [not published yet]() explains the algorithm.
